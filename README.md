@@ -10,7 +10,7 @@ That has inspired me to collect more of them in a book form.
 
 In a way, this is a clean-room reimplementation of Kent Beck's _Smalltalk Best Practice Patterns_.
 That's definitely the biggest inspiration.
-But I'd also like to incorporate ideas from several other books:
+But I'd also like to incorporate patterns introduced several other books:
 
 * _Practical Object-Oriented Design in Ruby_ by Sandi Metz
 * _99 Bottles of OOP_ by Sandi Metz and Katrina Owen
@@ -36,3 +36,15 @@ Perhaps we can make a distinction between patterns that we have to think about,
 and idioms that have just become second nature.
 One canonical example of this is that in assembly langauge, a subrouting call is a pattern.
 But in higher-level languages, we no longer thing of that as a pattern; it's just a part of the language.
+
+
+## Format
+
+For each pattern and idiom:
+
+* Name
+* When to use (contexts)
+* How to use
+* Examples
+* Contra-indications
+* Caveats
